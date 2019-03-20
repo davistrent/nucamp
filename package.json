@@ -1,0 +1,21 @@
+{
+  "name": "nucamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davistrent/nucamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davistrent/nucamp/issues"
+  },
+  "homepage": "https://github.com/davistrent/nucamp#readme"
+}
